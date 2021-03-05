@@ -19,6 +19,8 @@
 ### Installing
 Download it and ensure it👍
 
+## Credits
+- [PLOKMJNB](https://github.com/PLOKMJNB) for becoming monke
 
 ## License
 - This project is licensed under the [MIT License](https://github.com/synterrr/monke.io/LICENSE);
