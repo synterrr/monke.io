@@ -12,7 +12,9 @@
 
 ## Creating a discord app
 - Make sure you create an application on https://discord.com/developers/applications/
-- Make sure you put a badass logo 😎 https://beta.iodine.gg/yu1gr.png
+- - ![app](https://beta.iodine.gg/cLtIR.gif)
+- Make sure you put a badass logo 😎
+- - ![pic](https://beta.iodine.gg/mk15T.gif)
 
 ### Installing
 Download it and ensure it👍
