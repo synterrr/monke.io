@@ -4,7 +4,7 @@ cfg.DiscordAppID = 653188008882864148
 
 cfg.discordImageName = 'monke'
 cfg.hoverText = 'Monke'
-cfg.richPresenceText = 'Monke is playing on a monke zoo'
+cfg.richPresenceText = "" ..GetPlayerServerId(PlayerId()).. " | " .. #GetActivePlayers() .. " Players"
 cfg.smallDiscordImageName = 'monke'
 cfg.smallHoverText = 'Monke'
 
